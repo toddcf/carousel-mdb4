@@ -16,4 +16,4 @@ https://nature-escape.herokuapp.com/
 
 ## Future Iterations
 
-- See if there is a way to eliminate the white background while the carousel images are sliding.
+- Eliminate the white background while the carousel images are sliding.
